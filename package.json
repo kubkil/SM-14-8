@@ -4,7 +4,7 @@
   "description": "https://kubkil.github.io/SM-14-8/",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "http-server"
   },
   "repository": {
     "type": "git",
