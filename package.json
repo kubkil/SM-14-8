@@ -1,0 +1,23 @@
+{
+  "name": "SM-14-8",
+  "version": "1.0.0",
+  "description": "https://kubkil.github.io/SM-14-8/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kubkil/SM-14-8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kubkil/SM-14-8/issues"
+  },
+  "homepage": "https://github.com/kubkil/SM-14-8#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
